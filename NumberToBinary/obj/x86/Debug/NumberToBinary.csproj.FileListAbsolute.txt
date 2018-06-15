@@ -1,0 +1,6 @@
+/Users/hayesd5/Projects/NumberToBinary/NumberToBinary/bin/Debug/NumberToBinary.exe
+/Users/hayesd5/Projects/NumberToBinary/NumberToBinary/bin/Debug/NumberToBinary.pdb
+/Users/hayesd5/Projects/NumberToBinary/NumberToBinary/obj/x86/Debug/NumberToBinary.csprojResolveAssemblyReference.cache
+/Users/hayesd5/Projects/NumberToBinary/NumberToBinary/obj/x86/Debug/NumberToBinary.csproj.CoreCompileInputs.cache
+/Users/hayesd5/Projects/NumberToBinary/NumberToBinary/obj/x86/Debug/NumberToBinary.exe
+/Users/hayesd5/Projects/NumberToBinary/NumberToBinary/obj/x86/Debug/NumberToBinary.pdb
